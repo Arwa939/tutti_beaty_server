@@ -6,7 +6,7 @@ import mongoose from "mongoose";
 import bcrypt from "bcrypt";
 import cors from "cors";
 
-import User from "./models/Usrs.js";
+import User from "./Models/Usrs";
 
 const app = express();
 
